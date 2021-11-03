@@ -1,4 +1,4 @@
-###### Algoritma reversed **Javascript**
+#### Algoritma reversed **Javascript**
 
 1. Mulai
 2. Variabel **text** berisi **Javascript**
@@ -6,7 +6,7 @@
 4. untuk setiap perulangan nilai i akan mundur 1 dan berhenti ketika mencapai index awal
 5. nilai pada index tersebut ditampilkan sebagai hasil akhir
 
-###### Algoritma palindrome checker
+#### Algoritma palindrome checker
 
 1. Mulai
 2. Masukkan kata ke dalam variabel **word**
@@ -18,7 +18,7 @@
 9. nilai i bertambah 1 untuk setiap perulangan
 
 
-###### Algoritma reversed words
+#### Algoritma reversed words
 
 1. Mulai
 2. Masukkan kalimat ke dalam variabel **string**
@@ -34,7 +34,7 @@
 	   spasi ( ) dimasukkan ke indeks pertama, dan nilai dari **currentword** dikembalikan menjadi string kosong
 9. jika nilai i sama dengan panjang data dari string, maka tipe data di dalam array **words** akan dijadikan string dan diperoleh sebagai hasil akhir
 
-###### Algoritma mengubah a menjadi o pada Surabaya
+#### Algoritma mengubah a menjadi o pada Surabaya
 
 1. Mulai
 2. declare **kata** = Surabaya
