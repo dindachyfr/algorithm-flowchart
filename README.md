@@ -29,9 +29,9 @@
 7. perulangan akan dilakukan terus hingga nilai i sama dengan panjang data dari string
 8. perulangan dilakukan dari index awal ke akhir dengan nilai i akan bertambah 1 untuk setiap perulangannya, dan dijalankan beberapa kondisi yaitu:
 	a. jika nilai pada index i bukan spasi ( ) dan nilai i tidak sama dengan panjang data dari string, maka nilai pada index akan ditambahkan ke **currentword**
-	b. jika nilai i sama dengan panjang data dari string, maka nilai dari currentword akan dimasukkan ke dalam **words** di index pertama
-	c. jika nilai pada index i adalah spasi ( ), maka nilai dari **currentword** akan dimasukkan ke dalam variabel words di index kedua, dan
-	   spasi ( ) dimasukkan ke indeks pertama, dan nilai dari **currentword** dikembalikan menjadi string kosong
+	b. jika nilai pada index i adalah spasi ( ), maka nilai dari **currentword** akan dimasukkan ke dalam variabel **words** di index kedua, dan spasi ( ) dimasukkan ke indeks pertama, dan nilai dari **currentword** dikembalikan menjadi string kosong
+	c. jika nilai i sama dengan panjang data dari **string**, maka nilai dari **currentword** akan dimasukkan ke dalam **words**
+
 9. jika nilai i sama dengan panjang data dari string, maka tipe data di dalam array **words** akan dijadikan string dan diperoleh sebagai hasil akhir
 
 #### Algoritma mengubah a menjadi o pada Surabaya
